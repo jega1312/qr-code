@@ -85,7 +85,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-
-git add <file or folder name> to stage files and folders
-git commit -m "Commit message" to commit the staged files
-git push to push the commit to GitHub
