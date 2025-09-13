@@ -18,6 +18,12 @@ body {
   height: 100vh;
 }
 
+.wrapper{
+  width: 90%;
+  margin: 0 auto;
+  max-width: 320px;
+}
+
 .container{
   background-color: white;
   border-radius: 20px;
@@ -29,8 +35,8 @@ body {
 }
 
 .qr-container img{
-  width: 288px;
-  height: 288px;
+  width: 100%;
+  height: auto;
   border-radius: 10px;
 }
 
